@@ -1,4 +1,4 @@
 def square_array(array)
-    while array ** 2
+    while array ** 
 
 end
