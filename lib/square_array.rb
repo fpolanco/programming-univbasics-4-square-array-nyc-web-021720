@@ -1,3 +1,3 @@
 def square_array(array)
- array.to_i**
+ puts array**
 end
