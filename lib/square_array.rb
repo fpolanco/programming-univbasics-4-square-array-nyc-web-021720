@@ -1,8 +1,6 @@
 def square_array(array)
    newarray = array.new(array.length)
    array.each_index { |i| array[i] * array[i] }
-   return newarray
-
 end
 
 # def square_array(ary)
